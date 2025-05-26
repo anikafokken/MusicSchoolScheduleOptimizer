@@ -1,0 +1,1 @@
+This is a stripped-down version of my ScheduleOptimizer program for my local music school. This code repository only includes code that showcases the logic and main codebase uses as I'm still working on this project. Thank you!
